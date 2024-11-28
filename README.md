@@ -1,7 +1,6 @@
 # Attendify
 
-This is a project I created in collabration with one other developer 
-as a part of our degree at Jagran Lakecity University, Bhopal.
+This is a project created as a part of our degree at Jagran Lakecity University, Bhopal.
 
 This project aims to serve multiple purposes. They are as follows: 
   - Learn and recognize the faces of people.
